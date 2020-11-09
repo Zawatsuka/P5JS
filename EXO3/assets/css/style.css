@@ -1,0 +1,33 @@
+html,body {
+height: 100%;
+width: 100%;
+margin: 0%;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1%;
+    width: 10%;
+}
+.margin{
+    margin: 5px;
+}
+.border1{
+    border-color: green;
+}
+.border2{
+    border-color: red;
+}
+#test{
+    color: red;
+}
+#test2{
+    color: red;
+}
+
+#test3{
+    color: red;
+}
+
